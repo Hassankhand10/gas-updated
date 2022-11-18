@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613390215087",
+    "firebase_url": "https://gas-cylinder-87bc1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gas-cylinder-87bc1",
+    "storage_bucket": "gas-cylinder-87bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613390215087:android:6082febf96fe8ce29ff15a",
+        "android_client_info": {
+          "package_name": "com.GasCylinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613390215087-01pnlo20ufg3cb93fh1f8crkef9ds5fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfwEbRpUB_eS2NTCexyIB_AQTOWvZEdhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613390215087-01pnlo20ufg3cb93fh1f8crkef9ds5fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
